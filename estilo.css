@@ -1,69 +1,41 @@
-body {
-    color: aqua;
-    background-color: black;
+#imagemtitulo {
     text-align: center;
 }
 
-#t1 {
-color: aqua;
-font-family: cursive;
-font-size: xx-large;
-text-align: center;
-padding: 20px;
-padding-bottom: 1Opx;
-border: ;
-}
-
-.produtos {
-    color: #c4655e;
-    font-family: cursive;
-    text-align: left;
-}
-
-.descrito {
+#titulo1 {
     color: white;
-    font-family: monospace;
-    text-align: left;
-}
-
-.valores {
-    color: #179183 ;
+    text-align: center;
     font-family: cursive;
-    text-align: left;
+    text-transform: uppercase;
+    font-size: x-large;
 }
 
-img {
-    width: 300px;
-
-    height: 200px;
+.fundo {
+    background-color: #70d9e0;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
-#titulo2 {
-    color: white;
-    font-family: sans-serif;
-    font-size: 15px;
+.fundo2 {
+    background-color: #4f4f4e;
+    padding-top: 8px;
+    padding-bottom: 10px;;
     text-align: justify;
+    color: #ffffff;
     font-family: sans-serif;
-    border:  #52322f solid 2px;
-    border-right:  #52322f solid 1230px;
-    border-left:  #52322f solid 20px;
-}
-    
-.infos {
-    color: white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    border:  #52322f solid;
-    padding: 15px;
+    border: 1265px;
 }
 
-#recado {
-text-align: right;
-color: #595757;
+body {
+    background-color: #4f4f4e ;
 }
 
-.falado {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: white;
-    text-align: left;
+.metas {
+    border-top: 5px black solid;
 }
+
+.metas2 {
+    color: white;
+    font-family: sans-serif;
+}
+
